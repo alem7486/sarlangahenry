@@ -1,2 +1,1 @@
-# sarlangahenry
-módulo 2 del prep henry
+Este proyecto es una prueba.
